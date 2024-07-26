@@ -9,7 +9,7 @@
 - [Data Source](#data-source)
 - [Tools Used](#tools)
 - [Data Preparation](#data-preparation)
-- [Key Features](#key features)
+- [Key Features](#key-features)
 - [Dashboard](#dashboard)
 
 ### Project Overview
@@ -28,8 +28,6 @@ Sales Data : The dataset are used for this analysis is the "Amazon Sale Report -
 - PowerBI- Creating Dashboards, Data Visualization
 
 ### Project dashboard includes:-
- 
- Project Dashboard Includes :
  
  Sheet 1 : Data Overview
  
