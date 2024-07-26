@@ -7,7 +7,7 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
-- [Tools Used](#tools)
+- [Tools Used](#tools-used)
 - [Data Preparation](#data-preparation)
 - [Key Features](#key-features)
 - [Dashboard](#dashboard)
