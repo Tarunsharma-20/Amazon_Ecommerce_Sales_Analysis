@@ -49,7 +49,9 @@ In the initial data preparation phase, we performed the following tasks:
 - **Customizable Filters:** Customize filters to focus on specific product categories, time frames, or regions for targeted analysis.
 - **Drill-down Capability:** Dive deeper into sales patterns with drill-down features for a more in-depth analysis.
 
-### Dashboard
+## Dashboard
 
 ### Page 1 : Overview
+![Screenshot (78)](https://github.com/user-attachments/assets/689811f2-1dda-48d6-bf74-c6a0f037eabc)
 
+### Page 2 : Products
