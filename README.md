@@ -19,7 +19,7 @@
 - This dashboard is divided into three sections as Overview, Products and Product view.
 
  ### Data Source
-Sales Data: The datasets used for this analysis are "Amazon Sale Report - YT.xlsx" and "Amazon-fashion - YT.csv," which include essential attributes such as product name, product image URL, price, units sold, item details, city, country, state, and other pertinent information from April 2022 to June 2022.
+**Sales Data:** The datasets used for this analysis are "Amazon Sale Report - YT.xlsx" and "Amazon-fashion - YT.csv," which include essential attributes such as product name, product image URL, price, units sold, item details, city, country, state, and other pertinent information from April 2022 to June 2022.
 
 ### Tools Used
 
