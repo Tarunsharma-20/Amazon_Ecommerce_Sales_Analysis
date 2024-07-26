@@ -53,6 +53,8 @@ In the initial data preparation phase, we performed the following tasks:
 ### Page 3 : Product view
 ![Screenshot (77)](https://github.com/user-attachments/assets/79eca2ad-ff64-43f9-9886-ab451d160cb0)
 
+**Note:** For understanding Visually checkout the above Visualization.
+
 ## Contributors
 - [@Tarunsharma-20](https://github.com/Tarunsharma-20)
 
