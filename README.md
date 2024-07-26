@@ -55,3 +55,6 @@ In the initial data preparation phase, we performed the following tasks:
 ![Screenshot (78)](https://github.com/user-attachments/assets/689811f2-1dda-48d6-bf74-c6a0f037eabc)
 
 ### Page 2 : Products
+![Screenshot (77)](https://github.com/user-attachments/assets/79eca2ad-ff64-43f9-9886-ab451d160cb0)
+
+### Page 3 : Product view
