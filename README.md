@@ -27,14 +27,6 @@ Sales Data: The datasets used for this analysis are "Amazon Sale Report - YT.xls
 
 - PowerBI- Creating Dashboards, Data Visualization
 
-### Project dashboard includes:-
- 
- Sheet 1 : Data Overview
- 
- Sheet 2 : Products Overview
-
- Sheet 3 : Product view Overview
-
 ### Data Preparation
 
 In the initial data preparation phase, we performed the following tasks:
@@ -55,6 +47,12 @@ In the initial data preparation phase, we performed the following tasks:
 ![Screenshot (78)](https://github.com/user-attachments/assets/689811f2-1dda-48d6-bf74-c6a0f037eabc)
 
 ### Page 2 : Products
-![Screenshot (77)](https://github.com/user-attachments/assets/79eca2ad-ff64-43f9-9886-ab451d160cb0)
+![Screenshot (79)](https://github.com/user-attachments/assets/2e73de89-1a32-44a7-9bd0-ac671f5746af)
 
 ### Page 3 : Product view
+![Screenshot (77)](https://github.com/user-attachments/assets/79eca2ad-ff64-43f9-9886-ab451d160cb0)
+
+## Contributors
+- [@Tarunsharma-20](https://github.com/Tarunsharma-20)
+
+Happy analyzing!
