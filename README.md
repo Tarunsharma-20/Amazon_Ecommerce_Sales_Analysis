@@ -32,7 +32,8 @@
 In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection.
 2. Handling missing values.
-3. Data cleaning and formatting
+3. Data cleaning and formatting.
+4. Structured the data for effective analysis.
 
 ### Key Features
 
