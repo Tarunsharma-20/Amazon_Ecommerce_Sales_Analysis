@@ -25,7 +25,7 @@
 
 - Excel - Data Cleaning
 
-- PowerBI- Creating Dashboards, Data Visualization
+- PowerBI - Creating Dashboards, Data Visualization
 
 ### Data Preparation
 
